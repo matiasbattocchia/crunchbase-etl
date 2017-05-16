@@ -1,0 +1,194 @@
+Biopharma (by Disease)
+Biopharma (by Therapy)
+Finance & Accounting
+Education - India
+Biotech R&D
+Alternative Lending
+Marketplaces
+Enterprise Security
+Mobile Commerce
+Medical Devices (by Specialty)
+Event Management
+PaaS
+Online Travel
+MarketingTech
+SaaS
+PR Tech
+Remittance
+Smart Homes
+AgriTech
+Waste & Water Management
+Diagnostics (by Disease)
+Diagnostics (by Technology)
+Investment Tech
+Nutraceuticals
+Wearable Technology
+Sports Tech
+Energy Storage
+Enterprise Networking
+Mobile Health
+Consumer HealthTech
+Telemedicine
+HRTech
+AdTech
+Energy Efficiency
+FoodTech
+Mobile Education
+Education IT
+EdTech
+Healthcare IT
+Semiconductors
+Display Technology
+Traditional Advertising
+Conversational Commerce
+Ecommerce Enablers
+Payments
+Artificial Intelligence
+Business Intelligence
+Big Data Analytics
+Consumer Finance
+Mobile Finance
+Application Testing
+RetailTech
+Enterprise Collaboration
+Mobile-first Enterprise Apps
+Product Management Tools
+Mobile Communication
+BigData Infrastructure
+Database Technology
+Transport Tech
+Online Grocery
+B2B eCommerce
+Cloud Infrastructure
+Online Retail
+Consumer Digital - SEA
+Fashion Tech
+Self Learning
+Payment Cards
+Smart Grid
+Internet - India
+Marketplaces - India
+IT Operations
+SaaS - India
+RealEstate Tech
+Global SaaS - India
+Local Services
+3D Printing
+Customer Service Software
+FinTech - India
+Data as a Service
+Cross Border - India
+Mobile Advertising
+OSS & BSS
+Product Discovery
+Legal Tech
+Open Source
+Mobile App Distribution
+Blockchain
+Mom & Baby Care
+Drones
+Outsourcing - India
+Industrial Robotics
+Insurance Tech
+Life Sciences Software
+CleanTech - India
+Solar Energy
+Oil & Gas
+Technology - China
+Mobile DevTools
+Logistics Tech
+Hyperlocal Delivery
+Online Video
+Healthcare Analytics
+Nanotechnology
+Enterprise Tech - SEA
+Online Gifting
+Sales Force Automation
+Banking Tech
+FinTech - SEA
+Bitcoin
+Smart Cars
+Fitness & Wellness
+Industrial Internet of Things
+Flash Sales
+SCM Software
+Internet of Things Infrastructure
+Online Rental
+HealthTech - India
+Subscription Commerce
+Mobile Gaming
+Auto Tech
+Construction Tech
+Augmented Reality
+Telecom Operators
+Mobile - India
+Mobile Payments
+Consumer Digital - China
+Essential Mobile Apps
+Edutainment
+Crowdfunding
+Field Force Automation
+Virtual Reality
+Wind Energy
+Geographic Information System
+Internet First Brands
+GRC Software
+GovTech
+Data Center Infrastructure
+Enterprise Storage
+Home Improvements
+EdTech - China
+Enterprise Tech - India
+Second Hand Goods
+Wedding Tech
+Matchmaking
+Enterprise Tech - China
+Music Tech
+Docker Ecosystem
+Robo Advisors
+Smart Cities
+Enterprise Mobility
+Agriculture - India
+ERP
+Tutoring
+Advanced Materials
+Media & Entertainment - India
+Electric Vehicles
+5G Enablers
+Telecom Infrastructure
+Chatbots
+FinTech - China
+Virtualization
+Finance - India
+Coupons and Deals
+Customer Success Management
+CleanTech - Israel
+DevOps
+Online Photos
+Technology - SEA
+Venture Funds
+Natural User Interface
+Coding Tools
+NewSpace
+Consumer Robotics
+HealthTech - China
+Cross Border Commerce
+Food & Beverage - India
+Biopharma Contract Services
+Healthcare - India
+AdTech - India
+Geothermal Energy
+Gaming Enablers
+API Management
+Marine Energy
+Language Learning
+EdTech - SEA
+VR Gaming
+Biotech - India
+EdTech - India
+Bioenergy
+AdTech - SEA
+Technology - India
+Private Equity
+AdTech - China
+Consumer Goods - India

@@ -1,0 +1,728 @@
+regexp_split_to_table
+e-signature
+virtual world
+gift exchange
+social network
+charter schools
+travel agency
+elder care
+mothers
+sales
+news
+water
+artificial intelligence
+smart building
+billing
+mining technology
+online portals
+sustainability
+music venues
+tobacco
+wireless
+b2c
+assisted living
+lending
+serious games
+guides
+parking
+cooking
+limousine service
+saas
+organic
+shopping mall
+creative agency
+comics
+dsp
+drones
+rehabilitation
+printing
+film distribution
+open source
+govtech
+warehousing
+embedded software
+cloud management
+food processing
+web apps
+it infrastructure
+sports
+home improvement
+flowers
+it management
+medical device
+sales automation
+virtualization
+optical communication
+cad
+casual games
+railroad
+product research
+direct sales
+domain registrar
+life insurance
+home health care
+cloud computing
+livestock
+advanced materials
+continuing education
+affiliate marketing
+health diagnostics
+power grid
+crowdsourcing
+business travel
+adult
+online auctions
+private social networking
+iaas
+human resources
+children
+underserved children
+ict
+e-learning
+information technology
+seafood
+media and entertainment
+enterprise software
+mhealth
+sponsorship
+young adults
+national security
+price comparison
+winery
+crowdfunding
+biometrics
+music streaming
+parks
+hotel
+advice
+environmental engineering
+laundry and dry-cleaning
+biotechnology
+taxi service
+secondary education
+farming
+sem
+virtual goods
+local
+navigation
+nuclear
+productivity tools
+public safety
+sex industry
+energy management
+social assistance
+spam filtering
+compliance
+digital signage
+ad retargeting
+chemical
+lifestyle
+tv production
+consumer goods
+task management
+elderly
+call center
+collectibles
+universities
+outdoors
+rental
+waste management
+home renovation
+ebooks
+web browsers
+embedded systems
+risc
+sailing
+enterprise
+construction
+software
+museums and historical sites
+usability testing
+consumer lending
+video editing
+wine and spirits
+fashion
+simulation
+wood processing
+intrusion detection
+data center
+electric vehicle
+made to order
+venture capital
+nightclubs
+sporting goods
+health insurance
+sns
+catering
+industrial
+hedge funds
+vacation rental
+audiobooks
+employment
+outdoor advertising
+direct marketing
+retirement
+robotics
+consumer
+marine transportation
+communications infrastructure
+autonomous vehicles
+payments
+fpga
+solar
+rental property
+customer service
+office administration
+privacy
+semiconductor
+video games
+data storage
+leasing
+water purification
+biopharma
+chemical engineering
+facility management
+b2b
+housekeeping service
+enterprise applications
+photo editing
+virtual currency
+sensor
+college recruiting
+celebrity
+prediction markets
+neuroscience
+text analytics
+industrial manufacturing
+infrastructure
+mineral
+contact management
+aerospace
+mechanical design
+gpu
+recycling
+language learning
+intelligent systems
+cleantech
+social media
+charity
+electrical distribution
+dental
+marketing
+wellness
+hardware
+janitorial service
+higher education
+genetics
+mapping services
+handmade
+personal finance
+geospatial
+industrial engineering
+gps
+education
+twitter
+presentations
+emergency medicine
+video
+recipes
+speech recognition
+credit
+employee benefits
+fleet management
+sex tech
+pc games
+google glass
+broadcasting
+credit bureau
+asset management
+loyalty programs
+advertising platforms
+precious metals
+quantified self
+american football
+seo
+building maintenance
+real estate investment
+home and garden
+social bookmarking
+outpatient care
+grocery
+big data
+farmers market
+nutraceutical
+mmo games
+shipping
+swimming
+home decor
+supply chain management
+developer apis
+oil and gas
+innovation management
+recreation
+journalism
+commercial
+database
+delivery
+web hosting
+multi-level marketing
+furniture
+electronics
+coworking
+developer platform
+classifieds
+consulting
+medical
+music label
+credit cards
+beauty
+vocational education
+webos
+messaging
+career planning
+rugby
+recruiting
+console games
+automotive
+mobile devices
+animal feed
+facial recognition
+wealth management
+tv
+content creators
+eyewear
+fantasy sports
+art
+mobile
+intellectual property
+delivery service
+financial services
+car sharing
+satellite communication
+angel investment
+financial exchanges
+ehr
+ride sharing
+nanotechnology
+communities
+skiing
+video conferencing
+therapeutics
+biofuel
+service industry
+coupons
+natural resources
+indoor positioning
+linux
+horticulture
+machinery manufacturing
+diabetes
+self-storage
+industrial design
+online forums
+search engine
+document preparation
+stem education
+basketball
+freemium
+browser extensions
+dating
+video on demand
+biomass energy
+packaging services
+machine learning
+personal development
+ediscovery
+edtech
+fitness
+rfid
+content syndication
+musical instruments
+paper manufacturing
+public transportation
+transportation
+vertical search
+erp
+shoes
+business development
+transaction processing
+windows phone
+green consumer goods
+information services
+independent music
+fuel cell
+web design
+professional networking
+computer vision
+augmented reality
+green building
+product search
+forestry
+internet of things
+freight service
+internet
+coffee
+private cloud
+lead generation
+data integration
+q&a
+photography
+windows
+cosmetics
+knowledge management
+fraud detection
+web development
+nightlife
+social
+cms
+brand marketing
+auto insurance
+landscaping
+veterinary
+content delivery network
+marketing automation
+email
+google
+gambling
+reading apps
+freelance
+social shopping
+mechanical engineering
+analytics
+virtual assistant
+casino
+cricket
+network security
+mobile payments
+mooc
+facebook
+bitcoin
+social recruiting
+hunting
+human computer interaction
+risk management
+lgbt
+agtech
+manufacturing
+energy
+e-commerce platforms
+translation service
+nutrition
+cause marketing
+craft beer
+tutoring
+cycling
+women's
+parenting
+industrial automation
+humanitarian
+organic food
+tour operator
+nfc
+brewing
+paas
+developer tools
+dietary supplements
+home services
+life science
+quality assurance
+boating
+cloud data services
+stock exchanges
+religion
+app marketing
+penetration testing
+professional services
+communication hardware
+consumer reviews
+sharing economy
+commercial lending
+micro lending
+finance
+lighting
+collection agency
+debt collections
+virtual desktop
+application performance management
+reservations
+incubators
+in-flight entertainment
+health care
+extermination service
+legal
+retail
+apps
+social media advertising
+app discovery
+small and medium businesses
+personal health
+fuel
+baseball
+file sharing
+impact investing
+music education
+performing arts
+adventure travel
+primary education
+wired telecommunications
+video advertising
+pollution control
+accounting
+predictive analytics
+semantic search
+e-commerce
+marijuana
+online games
+training
+virtual reality
+banking
+retail technology
+staffing agency
+emerging markets
+market research
+gamification
+non profit
+darknet
+interior design
+ios
+home automation
+mobile apps
+management information systems
+nursing and residential care
+alumni
+security
+wedding
+government
+sms
+plastics and rubber manufacturing
+building material
+cryptocurrency
+test and measurement
+clinical trials
+civil engineering
+event management
+macos
+mobile advertising
+eda
+drone management
+outsourcing
+software engineering
+local shopping
+reputation
+music
+hospital
+film production
+courier service
+shipping broker
+telecommunications
+real time
+resorts
+cloud storage
+bakery
+event promotion
+politics
+facilities support services
+product design
+product management
+ux design
+point of sale
+corporate training
+amusement park and arcade
+commercial real estate
+events
+air transportation
+consumer applications
+asic
+procurement
+alternative medicine
+theatre
+gift registry
+peer to peer
+real estate
+concerts
+leisure
+3d technology
+battery
+roku
+food delivery
+technical support
+project management
+first aid
+diving
+animation
+meeting software
+fintech
+motion capture
+homeland security
+generation z
+contests
+video chat
+consumer software
+public relations
+content marketing
+funerals
+data center automation
+content
+franchise
+social news
+textiles
+ad server
+wearables
+aquaculture
+audio
+xbox
+cloud infrastructure
+water transportation
+auctions
+bioinformatics
+renewable energy
+hospitality
+property insurance
+identity management
+environmental consulting
+law enforcement
+greentech
+hydroponics
+local advertising
+ad network
+android
+crm
+photo sharing
+digital entertainment
+shopping
+flash storage
+golf
+lead management
+esports
+edutainment
+social media marketing
+hockey
+tourism
+millennials
+qr codes
+computer
+trading platform
+pet
+collaboration
+field support
+lingerie
+voip
+location based services
+agriculture
+3d printing
+cyber security
+desktop apps
+consumer research
+visual search
+archiving service
+debit cards
+equestrian
+group buying
+toys
+psychology
+tea
+diy
+semantic web
+scheduling
+email marketing
+wind energy
+timber
+pharmaceutical
+distillery
+corrections facilities
+surfing
+business intelligence
+energy efficiency
+travel
+homeless shelter
+vending and concessions
+child care
+timeshare
+management consulting
+collaborative consumption
+drm
+blogging platforms
+content discovery
+document management
+logistics
+commercial insurance
+property development
+jewelry
+advertising
+podcast
+internet radio
+baby
+fertility
+family
+trade shows
+recreational vehicles
+publishing
+presentation software
+table tennis
+architecture
+data visualization
+racing
+natural language processing
+personal branding
+flash sale
+food and beverage
+wholesale
+business information systems
+confectionery
+textbook
+data mining
+restaurants
+virtual workforce
+subscription service
+personalization
+space travel
+a/b testing
+teenagers
+clean energy
+digital marketing
+digital media
+skill assessment
+graphic design
+insurance
+snack food
+isp
+gaming
+ports and harbors
+fruit
+physical security
+property management
+tennis
+unified communications
+social media management
+operating systems
+marketplace
+consumer electronics
+cloud security
+assistive technology
+energy storage
+soccer
+laser
+travel accommodations
+foundries
+playstation
+gift card
+ad targeting
+film
+social crm
+mining
+fmcg
+network hardware
+local business
+same day delivery
+social innovation
+residential
+video streaming
+social entrepreneurship
+men's
+cosmetic surgery
+gift
+food trucks
+image recognition
+ticketing
+ad exchange
+fossil fuels
